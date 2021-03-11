@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<people>
+   <person id = "1">
+      <firstname>Edrian</firstname>
+      <lastname>Arcayan</lastname>   
+   </person>
+   
+   <person id = "2">
+      <firstname>Lumine</firstname>
+      <lastname>Aether</lastname>  
+   </person>
+
+</people>
